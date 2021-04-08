@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"excel-upload"},
+{"type":"table","name":"excel","database":"excel-upload","data":
+[
+{"id":"1","name":"Md. Zihad","email":"oahdizihad1@gmail.com"},
+{"id":"2","name":"Oahid Zihad","email":"zihadzihad111@gmail.com"},
+{"id":"3","name":"Zihad Mondol","email":"ayonayon18@gmail.com"},
+{"id":"4","name":"Oahiduzzaman","email":"mondol.zihad@northsouth.edu"}
+]
+}
+]
