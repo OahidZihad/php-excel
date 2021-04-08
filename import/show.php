@@ -23,7 +23,7 @@ $con = mysqli_connect('localhost', 'root', '', 'excel-upload');
 <body>
     <table style="border:1px solid white; border-radius: 10px; padding: 20px;
      margin-top: 50px;margin-left: 400px; font-weight: 400; 
-     background-color: tomato; color: #fff;" border="1">
+     background-color: tomato; color: #fff; font-size: 20px;" border="1">
         <thead>
           <th>ID</th>
           <th>Name</th> 

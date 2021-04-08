@@ -30,8 +30,8 @@ $con = mysqli_connect('localhost', 'root', '', 'excel-upload');
     <title>successful</title>
 </head>
 <body>
-    <div style="padding:20px; border:1px solid tomato; margin-top:200px; margin-left:500px; width: 17%;
-                border-radius:10px; background-color: tomato; color:white;font-weight:600;">
+    <div style="padding:20px; border:1px solid tomato; margin-top:200px; margin-left:500px; width: 21%;
+                border-radius:10px; background-color: tomato; color:white;font-weight:600;font-size:20px;">
         <?php
             echo 'The excel file added successfully.';
         ?>
